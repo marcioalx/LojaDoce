@@ -68,6 +68,7 @@
             btnCalcular.TabIndex = 2;
             btnCalcular.Text = "Calcular";
             btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.Click += BtnCalcular_Click;
             // 
             // lblPrecoUnitario
             // 

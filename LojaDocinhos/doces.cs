@@ -1,7 +1,7 @@
 ﻿
 namespace LojaDocinhos
 {
-    public class doces
+    public class Doces
     {
         public string? NomeDoce { get; set; }
 
